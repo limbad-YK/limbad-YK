@@ -4,7 +4,7 @@
 ### From India 🇮🇳
 
 <!-- - 🔭 I’m currently working on my AI -->
-- 🌱 I’m currently learning Python and ML
+<!-- - 🌱 I’m currently learning Python and ML -->
 - 🧠 Knowledge
   - C/C++
   - Java
@@ -12,8 +12,8 @@
   - MySQL
 - 💪 Skills
   - Core Java
-  - 🤖 Machine Learning with python
   - 💾 Database
+  - 🤖 Machine Learning with python
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
