@@ -1,6 +1,6 @@
 ## Hi 👋 I am Limbad Yash 🌀
 
-### 📙 Student at Parul University | B.Tech. CSE
+### 📙 Software Engineer At E6Data | B.Tech. CSE
 ### From India 🇮🇳
 
 <!-- - 🔭 I’m currently working on my AI -->
